@@ -19,3 +19,5 @@ ddddddddddddddddddddddddddddddddddddd
 
 dcfgfzd5fsgfa4f6d44
 dcfgfzd5fsgfa
+
+2017 Git.Training
